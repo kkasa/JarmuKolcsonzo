@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicles>
+  <scooter>
+    <manufacturer>Isuzu</manufacturer>
+    <type>df340</type>
+    <color>black</color>
+    <yearOfManufacture>2009</yearOfManufacture>
+    <withHelmet>false</withHelmet>
+  </scooter>
+  <scooter>
+    <manufacturer>Isuzu</manufacturer>
+    <type>df340</type>
+    <color>red</color>
+    <yearOfManufacture>2010</yearOfManufacture>
+    <withHelmet>true</withHelmet>
+  </scooter>
+  <scooter>
+    <manufacturer>Suzuki</manufacturer>
+    <type>cb210</type>
+    <color>orange</color>
+    <yearOfManufacture>2012</yearOfManufacture>
+    <withHelmet>true</withHelmet>
+  </scooter>
+  <car>
+    <manufacturer>Alfa Romeo</manufacturer>
+    <type>145 1.6i</type>
+    <color>red</color>
+    <yearOfManufacture>1996</yearOfManufacture>
+    <ranKm>212000</ranKm>
+    <servicePeriod>20000</servicePeriod>
+  </car>
+  <car>
+    <manufacturer>Opel</manufacturer>
+    <type>Astra 1.6</type>
+    <color>white</color>
+    <yearOfManufacture>2014</yearOfManufacture>
+  </car>
+</vehicles>
